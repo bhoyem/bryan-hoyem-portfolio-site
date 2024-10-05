@@ -577,6 +577,10 @@ footer .social-icons li i {
     h1 {
       font-size: 2.5rem;
     }
+
+    h1 span {
+      font-size: 2.7rem;
+    }
   
     h2 {
       font-size: 1.5rem;
@@ -752,7 +756,7 @@ footer .social-icons li i {
     }
   
     #about figure {
-      width: 60%;
+      width: 90%;
     }
   
     .about-info h4 {
@@ -800,6 +804,10 @@ footer .social-icons li i {
     .about-info h3 {
       font-size: 3.5rem;
     }
+
+    #about figure {
+      width: 80%;
+    }
   }
   
   @media only screen and (min-width:1200px) {
@@ -812,6 +820,10 @@ footer .social-icons li i {
     /* font styles */
     h1 {
       font-size: 4rem;
+    }
+
+    h1 span {
+      font-size: 5rem;
     }
   
     h2 {
@@ -973,7 +985,7 @@ footer .social-icons li i {
     }
   
     #about figure {
-      width: 35%;
+      width: 40%;
       margin-top: 0;
     }
   
