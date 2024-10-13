@@ -434,7 +434,7 @@ h1 span {
   color: #4a4f3e;
 }
 
-/* -------------------- Base Header Styles -------------------- */
+/* -------------------- Base Footer Styles -------------------- */
 footer {
   background-color: #152A3E;
   color: #E8EBEE
@@ -449,6 +449,10 @@ footer .contact-wrapper {
 
 footer .contact-info {
   width: 60%;
+}
+
+#email a {
+  color: #E8EBEE;
 }
 
 footer h4 {
